@@ -1,0 +1,28 @@
+html {
+  background-color: #2d2d37;
+}
+.App {
+  text-align: center;
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.followers {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 250px;
+  height: 400px;
+  border: 2px solid white;
+  background-color: cadetblue;
+  margin: 10px;
+}
+
